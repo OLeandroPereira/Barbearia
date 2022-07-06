@@ -1,4 +1,3 @@
 # Barbearia
-<strong>Curso HTML5 e CSS3 da ALURA (Barbearia)</strong> 
-
-<a href="https://oleandropereira.github.io/Barbearia/" target="_blank">Clique aqui para abrir a pagina</a> 
+ Curso HTML e CSS do Curso Alura
+file:///C:/Users/Leandro%20Marques/Documents/estudos/Barbearia/index.html
